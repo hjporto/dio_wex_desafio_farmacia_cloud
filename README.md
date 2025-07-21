@@ -46,4 +46,5 @@ A implementação das ferramentas Cloud na empresa Abstergo Industries tem como 
 |Lambda			|	Automação de processos (notificações e relatórios)	|	Redução de custos com servidores e automação|
 
 Assinatura do Responsável pelo Projeto:
+
 Hugo Porto
